@@ -9,7 +9,7 @@ ms.reviewer: ""
 ms.technology: t-sql
 ms.topic: reference
 f1_keywords: 
-  - "DATABASE_TSQL"
+  - "DATABASE_TSQL" test
   - "DATABASE"
   - "CONTAINMENT_TSQL"
   - "CREATE DATABASE"
